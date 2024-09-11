@@ -11,7 +11,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
   
 - 💬 Ask me about HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Mongoose | React | npm.
 
-- 🔥  Visit my [Portfolio](https://saurav9284.github.io) for more details.
+- 🔥  Visit my [Portfolio](https://sangavi002.github.io/Sangavi_Portfolio/) for more details.
 
 - ✉️  You can contact me at [sangavibabu007@gmail.com](mailto:sangavibabu007@gmail.com)
 <br />
