@@ -27,8 +27,8 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 **Email:- sangavibabu007.com**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sangavi-babu-7a74a0148/" target="https://www.linkedin.com/in/sangavi-babu-7a74a0148/>
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+ <a href="https://www.linkedin.com/in/sangavi-babu-7a74a0148/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
