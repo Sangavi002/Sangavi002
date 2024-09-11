@@ -5,11 +5,11 @@
 I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code.Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this dynamic field.</h4>
 <br/>
 
-- ⭐ I’m a MERN Stack Developer
+- ⭐ I’m a MERN Stack Developer.
  
 - 🌍  I hail from Chennai,TamilNadu.
   
-- 💬 Ask me about HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Mongoose | React | npm
+- 💬 Ask me about HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Mongoose | React | npm.
 
 - 🔥  Visit my [Portfolio](https://saurav9284.github.io) for more details.
 
